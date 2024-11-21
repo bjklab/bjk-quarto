@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Brendan J Kelly"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  search: false
+  page-footer: "visit me at the [microbiome transmission lab](https://motionlab.site)"
+  navbar:
+    title: "Brendan J. Kelly"
+    right:
+      - icon: github
+        href: https://github.com/bjklab
+      - icon: google
+        href: https://scholar.google.com/citations?user=6s0BAn0AAAAJ
+      - text: "{{< fa p >}}" 
+        href: https://www.ncbi.nlm.nih.gov/myncbi/12Ouj3rJSdIka/bibliography/public/
+      - text: "{{< fa brands bluesky >}}" 
+        href: https://scholar.google.com/citations?user=6s0BAn0AAAAJ
+      
+format:
+  html:
+    theme: [cosmo, styles.scss]
