@@ -35,12 +35,18 @@ $font-size-root: 18px;
     }
 }
 
-// a * {
-//     color: $theme-blue;
-//     transition-duration: 0.5s;    
+a * {
+    color: $theme-blue;
+    transition-duration: 0.5s;    
 
-//     &:hover {
-//         color: $theme-red;
-//         transition-duration: 0.5s;    
-//     }
-// }
+    &:hover {
+        color: $theme-red;
+        transition-duration: 0.5s;    
+    }
+
+    // &:onclick {
+    //     color: $theme-red;
+    //     transition-duration: 0.5s;    
+    // }
+
+}
