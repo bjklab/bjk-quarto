@@ -8,15 +8,17 @@ website:
   page-footer: "visit us at the [microbiome transmission lab](https://motionlab.site)"
   navbar:
     title: "Brendan J. Kelly"
-    right:
-      - icon: github
-        href: https://github.com/bjklab
-      - icon: google
-        href: https://scholar.google.com/citations?user=6s0BAn0AAAAJ
-      - text: "{{< fa p >}}" 
-        href: https://www.ncbi.nlm.nih.gov/myncbi/12Ouj3rJSdIka/bibliography/public/
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://scholar.google.com/citations?user=6s0BAn0AAAAJ
+    tools:
+      - icon: circle-fill
+        href: https://motionlab.site
+      # - icon: github
+      #   href: https://github.com/bjklab
+      # - icon: google
+      #   href: https://scholar.google.com/citations?user=6s0BAn0AAAAJ
+      # - text: "{{< fa p >}}" 
+      #   href: https://www.ncbi.nlm.nih.gov/myncbi/12Ouj3rJSdIka/bibliography/public/
+      # - text: "{{< fa brands bluesky >}}" 
+      #   href: https://scholar.google.com/citations?user=6s0BAn0AAAAJ
       
 format:
   html:
