@@ -6,7 +6,7 @@ website:
   title: "Brendan J Kelly"
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   search: false
-  favicon: microscope_white.png
+  favicon: transparency.svg
   page-footer: "visit us at the [microbiome transmission lab](https://motionlab.site)"
   navbar:
     title: "Brendan J. Kelly"
